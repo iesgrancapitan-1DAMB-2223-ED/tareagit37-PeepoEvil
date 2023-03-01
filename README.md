@@ -1,7 +1,7 @@
 # tareagit37-PeepoEvil
 tareagit37-PeepoEvil created by GitHub Classroom
 
-<h1> 1. Realicemos un fork del repositorio <h1> <br>
+<h1> 1. Realicemos un fork del repositorio <h1><br>
 
 ![1](https://user-images.githubusercontent.com/115102321/222241465-a176798d-e491-4b34-afe4-7411c8d94710.png)
 ![2](https://user-images.githubusercontent.com/115102321/222241466-1b56ecf5-6978-4f97-a463-23db59232d03.png)
